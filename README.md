@@ -18,4 +18,4 @@ Zip and Sideload app to roku device: https://developer.roku.com/docs/developer-p
 
 **Step 4**
 
-Setup task scheduler or crontab to run powershell script or curl request to roku device
+Setup task scheduler or crontab to run powershell script or curl request to roku device at whatever times and data you want.
