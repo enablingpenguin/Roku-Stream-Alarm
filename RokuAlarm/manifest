@@ -1,0 +1,20 @@
+'********** Copyright 2016 Roku Corp.  All Rights Reserved. **********
+
+title=Instant ABC
+subtitle=Instant Connection to HD HomeRun
+major_version=1
+minor_version=0
+build_version=00000
+
+mm_icon_focus_hd=pkg:/images/rsgde_mm_focus_hd.jpg
+
+mm_icon_focus_sd=pkg:/images/rde_mm_focus_sd.jpg
+
+splash_screen_sd=pkg:/images/rde_splash_sd.jpg
+
+splash_screen_hd=pkg:/images/rsgde_splash_hd.jpg
+
+splash_color=#000000
+splash_min_time=0
+
+ui_resolutions = "hd"
