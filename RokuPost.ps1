@@ -1,0 +1,1 @@
+﻿Invoke-WebRequest -Uri http://{ROKU_IP_ADDRESS}:8060/launch/dev -Method POST
